@@ -39,8 +39,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Conference Presentations
- ======
+Conference presentations
+======
 * “KPC-2 and VIM Carbapenemases Decreased in Carbapenem-Resistant Enterobacteriaceae in Indiana Health Care Centers from 2009-2013”, at Interscience Conference on Antimicrobial Agents and Chemotherapy (ICAAC), September 2014, Megan Dunn, Yunliang Zhang, Sining Zhu, Henry Li, Vitoria Abbott-Ozug, Gerald A. Denys, Karen Bush. 
 * “Occurrence of VIM and NDM Carbapenemases in Indiana Health Care Centers Carbapenem-Resistant Enterobacteriaceae from 2009 to 2013”, at Interscience Conference on   Antimicrobial Agents and Chemotherapy (ICAAC), September 2015, Ankita Kashikar, Yunliang Zhang, Anagha Tulpule, Megan Dunn, Katherine Herman, Gerald Denys, Karen Bush.
 * “Eravacycline In Vitro Antibacterial Activity against 110 Carbapenemase-Producing Enterobacteriaceae Clinical Isolates”, at American Society for Microbiology (ASM), Jun 2016, Yunliang Zhang, Xiaoyan Lin, Karen Bush.

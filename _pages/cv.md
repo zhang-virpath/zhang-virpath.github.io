@@ -15,9 +15,9 @@ Education
 * M.S. in Indiana University Bloomington
 
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* June 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -43,9 +43,6 @@ Publications
 * Zhang B, Zhang Y, Xiong L, Li L, Zhang Y, Zhao J, Jiang H, Li C, Liu Y, Liu X, Liu H, Ping Y, Zhang Q, Zhang Z, Bian X, Zhao Y, Hu X. CD127 imprints functional heterogeneity to diversify monocyte responses in inflammatory diseases. J Exp Med 7 February 2022; 219 (2): e20211191. doi: https://doi.org/10.1084/jem.20211191
 * Zhang Y and Bernard Moss. Identification and characterization of O-GlcNAc modifications of a conserved orthopoxvirus core protein. Journal of Virology January 2025 (JVI00058-25R1). Accepted
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Conference presentations
 ======

@@ -55,28 +55,3 @@ Carbapenem-Resistant Enterobacteriaceae (CP-CRE) Isolates”，at American Socie
 * “Investigation of a Novel O-GlcNAc Modification of a Vaccinia Virus Core Protein”, at American Society for Virology (ASV), Jun 2023, Yunliang Zhang and Bernard Moss.
 * “Investigation of a Novel O-GlcNAc Modification of a Vaccinia Virus Core Protein”, at American Society for Virology (ASV), Jun 2024, Yunliang Zhang and Bernard Moss.
 
-
-# Skills
-# ======
-# * Skill 1
-# * Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-# * Skill 3
-  
-# Talks
-# ======
-#  <ul>{% for post in site.talks reversed %}
- #   {% include archive-single-talk-cv.html  %}
- # {% endfor %}</ul>
-  
-# Teaching
-# ======
-#  <ul>{% for post in site.teaching reversed %}
- #   {% include archive-single-cv.html %}
- # {% endfor %}</ul>
-  
-# Service and leadership
-# ======
-# * Currently signed in to 43 different slack teams

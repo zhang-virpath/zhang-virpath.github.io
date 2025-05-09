@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="../images/poxvirus.png" alt="Poxvirus" width="500">
-</p>
+<img src="../images/poxvirus.png" alt="Poxvirus" width="300" style="float: right: 20px;">
 
 I am a postdoctoral fellow in the laboratory of Dr. Bernard Moss at the National Institute of Allergy and Infectious Diseases (NIAID), NIH, where I investigate the molecular biology, structural organization, and host-pathogen interactions of vaccinia virus, a model system for studying poxviruses and cytoplasmic DNA virus replication. My work continues a long-standing legacy in the Moss lab, which has made seminal contributions to the fields of viral gene expression, immune evasion, membrane fusion, and viral vector development.
 

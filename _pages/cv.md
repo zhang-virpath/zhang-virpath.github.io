@@ -17,21 +17,26 @@ Education
 
 Research experience
 ======
-* June 2024: Postdoctoral fellow @ National Institutes of Health
+* 2024 - presend: Postdoctoral fellow @ National Institutes of Health, MD, USA
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* 2019 - 2024: Predoctoral Fellow @ National Institutes of Health, MD, USA ; PhD student/candidate @ University of Maryland, MD, USA
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2017-2019: Research Assistant @ Institute for Immunology, Tsinghua University, Beijing, China
+  * Immune signaling and autoimmune disease mechanisms: Investigates immune signaling pathways, particularly those involving macrophage activation, myeloid cell dysfunction, and their role in autoimmune and inflammatory diseases.
+  * Therapeutic target identification: Contributed to the discovery of novel therapeutic strategies by investigating immune dysregulation in conditions such as rheumatoid arthritis and COVID-19.
+  * Functional analysis of CD127⁺ monocytes: Identified a subset of CD127-positive human monocytes through single-cell transcriptomic analysis. Demonstrated their IL-7 responsiveness and STAT5-mediated anti-inflammatory transcriptional programs, revealing previously unrecognized monocyte heterogeneity in chronic inflammation.
+
+* 2013-2018: Research Assistant @ Antibiotics Resistance Laboratory, Indiana University Bloomington, Indiana, USA
+  *	Identify mechanisms for resistance to multiple antibiotic classes in carbapenem-resistant Enterobacteriaceae (CRE) clinical isolates.
+  *	Establish a new paradigm for sustainable antibiotic drug discovery in an academic setting
+  *	Optimize antibiotic properties of current chemical compounds with antibacterial activity and evaluate lead compound status.
+
 
 Publications
 ======

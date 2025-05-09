@@ -9,6 +9,10 @@ redirect_from:
 
 ![poxvirus](/images/poxvirus.png)
 
+<p align="center">
+  <img src="images/poxvirus.png" alt="Poxvirus" width="250">
+</p>
+
 I am a postdoctoral fellow in the laboratory of Dr. Bernard Moss at the National Institute of Allergy and Infectious Diseases (NIAID), NIH, where I investigate the molecular biology, structural organization, and host-pathogen interactions of vaccinia virus, a model system for studying poxviruses and cytoplasmic DNA virus replication. My work continues a long-standing legacy in the Moss lab, which has made seminal contributions to the fields of viral gene expression, immune evasion, membrane fusion, and viral vector development.
 
 My research is focused on elucidating how large, complex DNA viruses such as vaccinia orchestrate key steps in the infection cycle—entry, uncoating, genome replication, and transcription—without access to the host cell nucleus. A central aspect of this work involves dissecting the entry-fusion complex (EFC), a multi-subunit viral machinery essential for mediating membrane fusion and delivering the viral core into the cytoplasm. By integrating biochemical labeling, mass spectrometry, protease protection assays, and AlphaFold-based structural modeling, I aim to map the accessibility and dynamic rearrangement of EFC components, providing insight into the conformational changes that underlie fusion triggering.

@@ -18,14 +18,14 @@ Education
 Research experience
 ======
 * 2024 - presend: Postdoctoral fellow @ National Institutes of Health, MD, USA
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Mechanisms of viral entry and membrane fusion: Dissects the structure and function of the vaccinia virus Entry-Fusion Complex (EFC), using biochemical labeling, protease protection assays, mass spectrometry, and AlphaFold modeling to understand conformational dynamics during viral fusion and core delivery.
+  * Viral immune evasion and host modulation: Studies how vaccinia virus proteins counteract host innate immune sensing and cytokine signaling pathways, contributing to understanding of viral strategies to subvert immune responses.
+* Virus–Host protein interaction networks: Maps interactions between viral and host proteins to uncover mechanisms of cellular reprogramming that support viral replication and pathogenesis.
 
 * 2019 - 2024: Predoctoral Fellow @ National Institutes of Health, MD, USA ; PhD student/candidate @ University of Maryland, MD, USA
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Virion assembly and morphogenesis: Investigates how viral structural proteins mediate assembly and shape transitions of infectious particles, focusing on protein-protein interactions and identifying critical checkpoints in virus morphogenesis.
+  * Post-Translational modifications of viral proteins: Explores how modifications such as O-GlcNAcylation regulate viral protein function, stability, and immune evasion, applying click chemistry and mass spectrometry to define roles in infection.
+  * Virus–Host protein interaction networks: Maps interactions between viral and host proteins to uncover mechanisms of cellular reprogramming that support viral replication and pathogenesis.
 
 * 2017-2019: Research Assistant @ Institute for Immunology, Tsinghua University, Beijing, China
   * Immune signaling and autoimmune disease mechanisms: Investigates immune signaling pathways, particularly those involving macrophage activation, myeloid cell dysfunction, and their role in autoimmune and inflammatory diseases.

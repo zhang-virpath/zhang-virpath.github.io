@@ -20,7 +20,7 @@ Research experience
 * 2024 - presend: Postdoctoral fellow @ National Institutes of Health, MD, USA
   * Mechanisms of viral entry and membrane fusion: Dissects the structure and function of the vaccinia virus Entry-Fusion Complex (EFC), using biochemical labeling, protease protection assays, mass spectrometry, and AlphaFold modeling to understand conformational dynamics during viral fusion and core delivery.
   * Viral immune evasion and host modulation: Studies how vaccinia virus proteins counteract host innate immune sensing and cytokine signaling pathways, contributing to understanding of viral strategies to subvert immune responses.
-* Virus–Host protein interaction networks: Maps interactions between viral and host proteins to uncover mechanisms of cellular reprogramming that support viral replication and pathogenesis.
+  * Virus–Host protein interaction networks: Maps interactions between viral and host proteins to uncover mechanisms of cellular reprogramming that support viral replication and pathogenesis.
 
 * 2019 - 2024: Predoctoral Fellow @ National Institutes of Health, MD, USA ; PhD student/candidate @ University of Maryland, MD, USA
   * Virion assembly and morphogenesis: Investigates how viral structural proteins mediate assembly and shape transitions of infectious particles, focusing on protein-protein interactions and identifying critical checkpoints in virus morphogenesis.

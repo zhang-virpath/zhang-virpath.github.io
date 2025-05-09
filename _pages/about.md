@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-##![poxvirus](/images/poxvirus.png)
+## ![poxvirus](/images/poxvirus.png)
 
 <p align="center">
   <img src="images/poxvirus.png" alt="Poxvirus" width="250">

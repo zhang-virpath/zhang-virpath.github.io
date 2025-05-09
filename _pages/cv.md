@@ -32,7 +32,7 @@ Research experience
   * Therapeutic target identification: Contributed to the discovery of novel therapeutic strategies by investigating immune dysregulation in conditions such as rheumatoid arthritis and COVID-19.
   * Functional analysis of CD127⁺ monocytes: Identified a subset of CD127-positive human monocytes through single-cell transcriptomic analysis. Demonstrated their IL-7 responsiveness and STAT5-mediated anti-inflammatory transcriptional programs, revealing previously unrecognized monocyte heterogeneity in chronic inflammation.
 
-* 2013-2018: Research Assistant @ Antibiotics Resistance Laboratory, Indiana University Bloomington, Indiana, USA
+* 2013-2017: Research Assistant @ Antibiotics Resistance Laboratory, Indiana University Bloomington, Indiana, USA
   *	Identify mechanisms for resistance to multiple antibiotic classes in carbapenem-resistant Enterobacteriaceae (CRE) clinical isolates.
   *	Establish a new paradigm for sustainable antibiotic drug discovery in an academic setting
   *	Optimize antibiotic properties of current chemical compounds with antibacterial activity and evaluate lead compound status.

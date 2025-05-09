@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-* June 2024: Academic Pages Collaborator
+* June 2024: Postdoctoral fellow @ National Institutes of Health
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users

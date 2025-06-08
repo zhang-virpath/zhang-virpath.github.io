@@ -2,7 +2,7 @@
 title: "Identification and characterization of O-GlcNAc modifications of a conserved orthopoxvirus core protein"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-05-07-paper-title-number-7
+permalink: /publication/2025-05-23-paper-title-number-7
 date: 2025-05-23
 venue: 'Journal of Virology'
 paperurl: '(https://journals.asm.org/doi/10.1128/jvi.00058-25)

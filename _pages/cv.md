@@ -46,8 +46,8 @@ Publications
 * Zhang Y, Kashikar A, Bush K. In vitro activity of plazomicin against β-lactamase-producing carbapenem-resistant Enterobacteriaceae (CRE). Journal of Antimicrobial Chemotherapy. 2017 Aug 1, dkx261, doi: https://doi.org/10.1093/jac/dkx261
 * Carpenter J, Neidig N, Campbell A, Thornsberry T,Truex T, Fortney T, Zhang Y and Bush K. Activity of imipenem/relebactam against carbapenemase-producing Enterobacteriaceae with high colistin resistance. Journal of Antimicrobial Chemotherapy. 2019 Aug 20, dkz354, doi: https://doi.org/10.1093/jac/dkz354
 * Zhang B, Zhang Y, Xiong L, Li L, Zhang Y, Zhao J, Jiang H, Li C, Liu Y, Liu X, Liu H, Ping Y, Zhang Q, Zhang Z, Bian X, Zhao Y, Hu X. CD127 imprints functional heterogeneity to diversify monocyte responses in inflammatory diseases. J Exp Med 7 February 2022; 219 (2): e20211191. doi: https://doi.org/10.1084/jem.20211191
-* Zhang Y and Bernard Moss. Identification and characterization of O-GlcNAc modifications of a conserved orthopoxvirus core protein. Journal of Virology January 2025 (JVI00058-25R1). Accepted
-
+* Zhang Y, Moss B. Identification and characterization of O-GlcNAc modifications of a conserved orthopoxvirus core protein. J Virol 0:e00058-25.
+https://doi.org/10.1128/jvi.00058-25
 
 Conference presentations
 ======
